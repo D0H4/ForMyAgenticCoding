@@ -28,3 +28,5 @@ If canonical documentation conflicts with legacy documentation, canonical docume
 
 # Rules
 - NEVER READ .env FILE.
+- DO NOT EDIT `AGENTS.md`, `CLAUDE.md`, `GEMINI.md` FILE.
+- DO NOT USE SUBAGENTS FEATURE.
